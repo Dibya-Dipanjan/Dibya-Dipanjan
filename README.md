@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dibya-Dipanjan
 - 👀 I’m interested in digital electronics, competitive programming, verilog, VHDl,C++, ML enthusiast
-- 🌱 I’m currently learning Machine Learning and Data Structures and algorithms
+- 🌱 I’m currently learning VLSI and Embedded Systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
